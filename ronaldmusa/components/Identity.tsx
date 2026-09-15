@@ -1,0 +1,9 @@
+export default function Identity() {
+  return (
+    <section className="px-4 pt-[26px] pb-[22px] sm:px-10 sm:pt-10 sm:pb-7 lg:px-16 xl:px-24">
+      <p className="text-[17px] font-medium tracking-tight sm:text-[19px]">
+        Videography · Photography
+      </p>
+    </section>
+  );
+}
